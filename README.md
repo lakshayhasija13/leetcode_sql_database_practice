@@ -20,8 +20,12 @@ A collection of LeetCode SQL problem solutions organized by problem number.
 | 12 | [586](586/) | [Customer Placing the Largest Number of Orders](586/README.md) | Easy | Database, GROUP BY |
 | 13 | [595](595/) | [Big Countries](595/README.md) | Easy | Database, WHERE |
 | 14 | [596](596/) | [Classes More Than 5 Students](596/README.md) | Easy | Database, GROUP BY |
-| 15 | [1068](1068/) | [Product Sales Analysis I](1068/README.md) | Easy | Database, JOIN |
-| 16 | [1148](1148/) | [Article Views I](1148/README.md) | Easy | Database, WHERE |
-| 17 | [1378](1378/) | [Replace Employee ID With The Unique Identifier](1378/README.md) | Easy | Database, LEFT JOIN |
-| 18 | [1683](1683/) | [Invalid Tweets](1683/README.md) | Easy | Database, WHERE |
-| 19 | [1757](1757/) | [Recyclable and Low Fat Products](1757/README.md) | Easy | Database, WHERE |
+| 15 | [607](607/) | [Sales Person](607/README.md) | Easy | Database, JOIN |
+| 16 | [610](610/) | [Triangle Judgement](610/README.md) | Easy | Database, Math |
+| 17 | [619](619/) | [Biggest Single Number](619/README.md) | Easy | Database, Subquery |
+| 18 | [620](620/) | [Not Boring Movies](620/README.md) | Easy | Database, WHERE |
+| 19 | [1068](1068/) | [Product Sales Analysis I](1068/README.md) | Easy | Database, JOIN |
+| 20 | [1148](1148/) | [Article Views I](1148/README.md) | Easy | Database, WHERE |
+| 21 | [1378](1378/) | [Replace Employee ID With The Unique Identifier](1378/README.md) | Easy | Database, LEFT JOIN |
+| 22 | [1683](1683/) | [Invalid Tweets](1683/README.md) | Easy | Database, WHERE |
+| 23 | [1757](1757/) | [Recyclable and Low Fat Products](1757/README.md) | Easy | Database, WHERE |
